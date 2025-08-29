@@ -43,7 +43,7 @@ Generate meshes from sampled point cloud with V1K variant:
 ```
 python inference.py --mesh_path assets --variant V1K --batch_size 3
 ```
-Generate meshes from sampled point cloud with V1K variant:
+Generate meshes from sampled point cloud with V4K variant:
 ```
 python inference.py --mesh_path assets --variant V4K --batch_size 1
 ```
