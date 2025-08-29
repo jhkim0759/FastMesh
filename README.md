@@ -37,12 +37,15 @@ pip install -r requirements.txt
 pip install flash-attn --no-build-isolation
 ```
 
-<!-- ## 💡 Quick Start
-Generate mesh from point cloud:
+## 💡 Quick Start
+Generate meshes from sampled point cloud with V1K variant:
 ```
-python inference.py --mesh_path assets/mesh.obj 
-``` -->
-
+python inference.py --mesh_path assets --variant V1K --batch_size 3
+```
+Generate meshes from sampled point cloud with V1K variant:
+```
+python inference.py --mesh_path assets --variant V4K --batch_size 1
+```
 
 ## 😊 Acknowledgement
 We thank all the authors who made their code public, which tremendously accelerates our project progress.
@@ -52,8 +55,8 @@ We thank all the authors who made their code public, which tremendously accelera
 ## 📚 Citation
 If you find our work helpful, please consider citing:
 ```bibtex
-@misc{kim2025fastmeshefficientartisticmeshgeneration,
-      title={FastMesh:Efficient Artistic Mesh Generation via Component Decoupling}, 
+@misc{kim2025fastmesh,
+      title={FastMesh: Efficient Artistic Mesh Generation via Component Decoupling}, 
       author={Jeonghwan Kim and Yushi Lan and Armando Fortes and Yongwei Chen and Xingang Pan},
       year={2025},
       eprint={2508.19188},
