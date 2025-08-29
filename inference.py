@@ -95,6 +95,3 @@ if __name__ == "__main__":
 
         input_shape = torch.empty((0,args.input_pc_num,6)).cuda()
         mesh_paths = []
-
-
-    print("SUCCESS LOAD MODEL")
