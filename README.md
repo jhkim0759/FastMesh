@@ -50,7 +50,7 @@ python inference.py --mesh_path assets --variant V4K --batch_size 1
 
 ## 😊 Acknowledgement
 We thank all the authors who made their code public, which tremendously accelerates our project progress.
-([MeshAnything](https://github.com/buaacyw/MeshAnything), [MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2), [BPT](https://github.com/whaohan/bpt), [Michelangelo](https://github.com/NeuralCarver/Michelangelo))
+([MeshAnything](https://github.com/buaacyw/MeshAnything), [MeshAnythingV2](https://github.com/buaacyw/MeshAnythingV2), [BPT](https://github.com/whaohan/bpt), [Michelangelo](https://github.com/NeuralCarver/Michelangelo), [TreeMeshGPT](https://github.com/sail-sg/TreeMeshGPT), [VAR](https://github.com/FoundationVision/VAR))
 
 
 ## 📚 Citation
