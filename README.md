@@ -9,7 +9,8 @@ S-lab, Nanyang Technological University
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.19188-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.19188)
 [![Project Page](https://img.shields.io/badge/🏠-Project%20Page-blue.svg)](https://jhkim0759.github.io/projects/FastMesh)
-[![Model](https://img.shields.io/badge/🤗%20Model-FastMesh-yellow.svg)]()
+[![Model-V4K](https://img.shields.io/badge/🤗%20Model-FastMesh-yellow.svg)](https://huggingface.co/WopperSet/FastMesh-V4K)
+[![Model-V1K](https://img.shields.io/badge/🤗%20Model-FastMesh-yellow.svg)](https://huggingface.co/WopperSet/FastMesh-V1K)
 
 <p align="center">
     <img width="90%" alt="pipeline", src="./assets/Teaser.png">
@@ -21,8 +22,8 @@ This repository is an official implementation of the paper [FastMesh: Efficient 
 
 
 ## 🚧 TODO
-- [ ] Release Inference Code
-- [ ] Release Model Weights
+- [X] Release Inference Code
+- [X] Release Model Weights
 - [ ] Release Training Code
 - [ ] Release HuggingFace Demo
 
