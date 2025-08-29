@@ -29,7 +29,7 @@ This repository is an official implementation of the paper [FastMesh: Efficient 
 
 ## ⚙️ Installation
 Our environment has been tested on CUDA 11.8 with A6000. <br>
-(It would be greatly appreciated if you could report an issue when you find any errors.)
+(It would be greatly appreciated if you report an issue when you find any errors.)
 
 ```
 conda create -n fastmesh python=3.10
