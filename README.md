@@ -28,7 +28,7 @@ This repository is an official implementation of the paper [FastMesh: Efficient 
 - [ ] Release HuggingFace Demo
 
 ## ⚙️ Installation
-Our environment has been tested on CUDA 11.8 with A6000. (Please report an issue if you find any errors.)
+Our environment has been tested on CUDA 11.8 with A6000. (It would be greatly appreciated if you could report an issue when you find any errors.)
 
 ```
 conda create -n fastmesh python=3.10
