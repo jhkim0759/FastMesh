@@ -9,8 +9,8 @@ S-lab, Nanyang Technological University
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.19188-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.19188)
 [![Project Page](https://img.shields.io/badge/🏠-Project%20Page-blue.svg)](https://jhkim0759.github.io/projects/FastMesh)
-[![Model](https://img.shields.io/badge/🤗%20Model-FastMesh-V4K-yellow.svg)](https://huggingface.co/WopperSet/FastMesh-V4K)
-[![Model](https://img.shields.io/badge/🤗%20Model-FastMesh-V1K-yellow.svg)](https://huggingface.co/WopperSet/FastMesh-V1K)
+[![Model](https://img.shields.io/badge/🤗%20Model-FastMesh--V4K-yellow.svg)](https://huggingface.co/WopperSet/FastMesh-V4K)
+[![Model](https://img.shields.io/badge/🤗%20Model-FastMesh--V1K-yellow.svg)](https://huggingface.co/WopperSet/FastMesh-V1K)
 
 <p align="center">
     <img width="90%" alt="pipeline", src="./assets/Teaser.png">
