@@ -21,7 +21,7 @@ def make_args_parser():
     parser.add_argument("--top_k", default=30, type=int)
     parser.add_argument("--top_p", default=0.95, type=float)
     parser.add_argument("--temp", default=0.3, type=float)
-    parser.add_argument("--face_threshold", default=0.65, type=float)
+    parser.add_argument("--face_threshold", default=0.5, type=float)
 
     ##### Model Setups #####
     parser.add_argument(
