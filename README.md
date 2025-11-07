@@ -1,4 +1,4 @@
-<h1 align="center">FastMesh: Efficient Artistic Mesh Generation via Component Decoupling</h1>
+<h1 align="center">FastMesh: Efficient Artistic Mesh Generation via Component Decoupling (3DV 2025)</h1>
 
 
 <h4 align="center">
